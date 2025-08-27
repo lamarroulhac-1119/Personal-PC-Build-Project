@@ -8,14 +8,14 @@ This project documents a personal computer I built to gain hands-on experience w
 - Troubleshoot and resolve hardware or software issues
 
 ## Components
-CPU- Ryzen 7 7800x3D
-RAM- 32Gb DDR5 6000MHz (2x16Gbs)
-Motherboard- Gigabyte B650 Aero G
-GPU- Ryzen 7900 XTX 24GB
-Storage- 1TB NVMe SSD, 1TB NVMe SSD
-PSU- Cooler Master 850W Gold
-AIO- Thermaltake TH360 V2
-Case- HYTE Y40
+- CPU- Ryzen 7 7800x3D
+- RAM- 32Gb DDR5 6000MHz (2x16Gbs)
+- Motherboard- Gigabyte B650 Aero G
+- GPU- Ryzen 7900 XTX 24GB
+- Storage- 1TB NVMe SSD, 1TB NVMe SSD
+- PSU- Cooler Master 850W Gold
+- AIO- Thermaltake TH360 V2
+- Case- HYTE Y40
 
 ## Assembly and Configuration
 - Installed all components into the case, connected power, front panel connectors and fan cables
